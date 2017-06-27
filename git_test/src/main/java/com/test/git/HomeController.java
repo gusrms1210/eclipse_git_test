@@ -38,6 +38,8 @@ public class HomeController {
 		System.out.println("Hello Dance World");
 		System.out.println("Add java class file push");
 		System.out.println("World with java");
+		System.out.println("World for pull");
+		
 		return "home";
 	}
 	
